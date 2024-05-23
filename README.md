@@ -109,7 +109,7 @@ Open your web browser and navigate to `http://localhost:3000` to view the applic
 
 - Arham Haroon
 - Hamza Riaz
-- Afrah
+- Afra
 - Hira Sardar
 - Suman
 
